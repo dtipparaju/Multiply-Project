@@ -6,6 +6,7 @@
 //
 
 // add some comments
+// here are some more comments I added to the code
 import SwiftUI
 
 struct ContentView: View {
